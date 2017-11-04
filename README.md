@@ -19,7 +19,7 @@ APIs Used: Google Maps
 - Figure out domain name etc...
   - Domain name
   - Logging 
-  - Addwords
+  - Adwords
   - SEO: register with google, make sure site is indexed properly, indexing of mongo db, research other techniques and best practices for SEO
 - Add recapthca to add spot form to confirm user is not a robot https://developers.google.com/recaptcha/intro
 - Add layer of user verification using http://openid.net/what-is-openid/ possibly

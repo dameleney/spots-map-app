@@ -1,9 +1,10 @@
 {
     "name": "MeanMapsApp",
     "version": "1.0.0",
-    "description": "Demo app showing the use of Google Maps in MEAN Apps",
+    "description": "App for adding windsurfing and kiteboarding spots to map.",
+    "liscence": "MIT",
     "main": "server.js",
-    "author": "Ahmed Haque",
+    "author": "David Meleney",
     "dependencies" : {
         "express"    : "~4.7.2",
         "mongoose"   : "~4.1.0",
